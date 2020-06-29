@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ebf3b598-ce61-4c20-aff5-ce4fd1a3c596" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bot.py" beforeDir="false" afterPath="$PROJECT_DIR$/bot.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1a49rPgwhblTIUu07RrjG2CKaNu" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.bot">
+    <configuration name="Spotify_to_Discord" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Spotify to Discord" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\ammar\AppData\Local\Programs\Python\Python37-32\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Spotify_to_Discord.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="bot" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Spotify to Discord" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/bot.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="copypaste" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Spotify to Discord" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/copypaste.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="discord_bot" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Spotify to Discord" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/discord_bot.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="paste" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Spotify to Discord" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/paste.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.bot" />
+        <item itemvalue="Python.Spotify_to_Discord" />
+        <item itemvalue="Python.copypaste" />
+        <item itemvalue="Python.discord_bot" />
+        <item itemvalue="Python.paste" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ebf3b598-ce61-4c20-aff5-ce4fd1a3c596" name="Default Changelist" comment="" />
+      <created>1585984196248</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585984196248</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="679" y="134" key="#Spotify_to_Discord" timestamp="1585984223855">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="679" y="134" key="#Spotify_to_Discord/1920.75.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1585984223855" />
+    <state x="718" y="323" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1589947476245">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="718" y="323" key="#com.intellij.fileTypes.FileTypeChooser/1920.75.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1589947476245" />
+    <state x="640" y="256" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1589949535875">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="640" y="256" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/1920.75.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1589949535875" />
+    <state x="624" y="199" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1593404327140">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="624" y="199" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/1920.75.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1593404327140" />
+    <state x="2419" y="234" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/1920.75.1536.832/0.0.1920.1040@1920.75.1536.832" timestamp="1590473345672" />
+    <state x="2512" y="295" key="FileChooserDialogImpl" timestamp="1592509352554">
+      <screen x="1920" y="75" width="1536" height="832" />
+    </state>
+    <state x="740" y="275" key="FileChooserDialogImpl/1920.75.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1589992026729" />
+    <state x="2512" y="295" key="FileChooserDialogImpl/1920.75.1536.832/0.0.1920.1040@1920.75.1536.832" timestamp="1592509352554" />
+    <state width="1899" height="417" key="GridCell.Tab.0.bottom" timestamp="1593449638568">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="417" key="GridCell.Tab.0.bottom/1920.75.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1593449638568" />
+    <state width="1515" height="287" key="GridCell.Tab.0.bottom/1920.75.1536.832/0.0.1920.1040@1920.75.1536.832" timestamp="1593393609382" />
+    <state width="1899" height="417" key="GridCell.Tab.0.center" timestamp="1593449638568">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="417" key="GridCell.Tab.0.center/1920.75.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1593449638568" />
+    <state width="1515" height="287" key="GridCell.Tab.0.center/1920.75.1536.832/0.0.1920.1040@1920.75.1536.832" timestamp="1593393609381" />
+    <state width="1899" height="417" key="GridCell.Tab.0.left" timestamp="1593449638568">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="417" key="GridCell.Tab.0.left/1920.75.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1593449638568" />
+    <state width="1515" height="287" key="GridCell.Tab.0.left/1920.75.1536.832/0.0.1920.1040@1920.75.1536.832" timestamp="1593393609381" />
+    <state width="1899" height="417" key="GridCell.Tab.0.right" timestamp="1593449638568">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="417" key="GridCell.Tab.0.right/1920.75.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1593449638568" />
+    <state width="1515" height="287" key="GridCell.Tab.0.right/1920.75.1536.832/0.0.1920.1040@1920.75.1536.832" timestamp="1593393609381" />
+    <state width="1899" height="348" key="GridCell.Tab.1.bottom" timestamp="1588388804980">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="348" key="GridCell.Tab.1.bottom/1920.75.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1588388804980" />
+    <state width="1899" height="348" key="GridCell.Tab.1.center" timestamp="1588388804980">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="348" key="GridCell.Tab.1.center/1920.75.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1588388804980" />
+    <state width="1899" height="348" key="GridCell.Tab.1.left" timestamp="1588388804980">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="348" key="GridCell.Tab.1.left/1920.75.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1588388804980" />
+    <state width="1899" height="348" key="GridCell.Tab.1.right" timestamp="1588388804980">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="348" key="GridCell.Tab.1.right/1920.75.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1588388804980" />
+    <state x="688" y="39" key="SettingsEditor" timestamp="1593404268441">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="688" y="39" key="SettingsEditor/1920.75.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1593404268441" />
+    <state x="2289" y="193" key="SettingsEditor/1920.75.1536.832/0.0.1920.1040@1920.75.1536.832" timestamp="1589497149841" />
+    <state x="581" y="295" width="606" height="347" key="com.intellij.ide.util.TipDialog" timestamp="1592509248469">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="581" y="295" key="com.intellij.ide.util.TipDialog/1920.75.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1592509248469" />
+    <state x="2385" y="311" width="606" height="347" key="com.intellij.ide.util.TipDialog/1920.75.1536.832/0.0.1920.1040@1920.75.1536.832" timestamp="1590506644104" />
+    <state x="1920" y="75" width="1550" height="918" key="dock-window-1" timestamp="1593402060307">
+      <screen x="1920" y="75" width="1536" height="832" />
+    </state>
+    <state x="1920" y="75" width="1550" height="918" key="dock-window-1/1920.75.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1593402060307" />
+    <state x="1967" y="66" width="1316" height="811" maximized="true" key="dock-window-1/1920.75.1536.832/0.0.1920.1040@1920.75.1536.832" timestamp="1590215350437" />
+    <state x="1920" y="75" width="1550" height="918" maximized="true" key="dock-window-2" timestamp="1593406882764">
+      <screen x="1920" y="75" width="1536" height="832" />
+    </state>
+    <state x="1920" y="75" width="1550" height="918" maximized="true" key="dock-window-2/1920.75.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1593406882764" />
+    <state x="539" y="191" width="840" height="848" key="search.everywhere.popup" timestamp="1593407230670">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="539" y="191" width="840" height="848" key="search.everywhere.popup/1920.75.1536.832/0.0.1920.1040@0.0.1920.1040" timestamp="1593407230670" />
+    <state x="2351" y="228" width="672" height="678" key="search.everywhere.popup/1920.75.1536.832/0.0.1920.1040@1920.75.1536.832" timestamp="1589760325268" />
+  </component>
+</project>
