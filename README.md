@@ -1,4 +1,4 @@
-# Spotify-Discord-Bot
+# Discord-Bot
 A discord bot that allows the user to play music from YouTube and Spotify. Also has other commands to automate parts of handling a Discord Server.
 
 # Setup:
